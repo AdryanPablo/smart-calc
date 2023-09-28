@@ -1,0 +1,5 @@
+.main-title {
+    font-family: var(--monospaced-font);
+    font-size: 2rem;
+    color: var(--color-black);
+}

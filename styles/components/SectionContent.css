@@ -1,0 +1,11 @@
+.section-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 50%;
+    height: 75%;
+    background-color: var(--color-first);
+    border-radius: 0.2rem;
+}

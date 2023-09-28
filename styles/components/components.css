@@ -1,2 +1,13 @@
-@import "./link-button.css";
-@import "./main-content.css";
+@import "./MainContent.css";
+@import "./SectionContent.css";
+@import "./MainForm.css";
+@import "./ResultPanel.css";
+@import "./InputBox.css";
+@import "./DescriptionTag.css";
+
+@import "./LinkButton.css";
+@import "./SubmitButton.css";
+@import "./BackButton.css";
+
+@import "./MainTitle.css";
+@import "./FormTitle.css";
