@@ -1,0 +1,8 @@
+.calculator-panel {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+    background-color: var(--color-first);
+    border-radius: 0.2rem;
+}

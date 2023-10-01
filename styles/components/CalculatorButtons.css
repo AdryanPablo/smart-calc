@@ -1,0 +1,10 @@
+.calculator-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 80%;
+    margin: 2%;
+    padding: 2%;
+}

@@ -11,3 +11,11 @@
 
 @import "./MainTitle.css";
 @import "./FormTitle.css";
+
+/* Calculator */
+
+@import "./CalculatorDisplay.css";
+@import "./CalculatorButtons.css";
+
+@import "./CalculatorButton.css";
+@import "./CalculatorPanel.css";
