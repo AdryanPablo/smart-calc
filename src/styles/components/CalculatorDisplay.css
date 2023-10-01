@@ -10,3 +10,7 @@
     font-family: var(--monospaced-font);
     font-size: 1rem;
 }
+
+.expression {
+    display: none;
+}
